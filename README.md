@@ -1,2 +1,2 @@
-# svelte-app-double-range-slider
+## Double Range Slider
 ## Utilizado na loja Atacado Vencedor 
