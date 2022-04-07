@@ -1,2 +1,2 @@
-## Double Range Slider
-## Utilizado na loja Atacado Vencedor 
+# Double Range Slider
+# Utilizado na loja Atacado Vencedor 
