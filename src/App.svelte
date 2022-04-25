@@ -141,8 +141,9 @@
   <div class="container-filtro">
     <a
       class="filtrar"
-      href="/category/de-{nice(start)}-a-{nice(end)}?PS=1{'&'}map=c,priceFrom"
-      >Filtrar</a
+      href="{window.location.pathname}/de-{nice(start)}-a-{nice(
+        end
+      )}?PS=9{'&'}map=c,priceFrom">Filtrar</a
     >
   </div>
 </main>
